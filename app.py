@@ -37,7 +37,7 @@ if youtube_url:
 
         st.video(youtube_url)
         st.markdown(f"# {video_title}")
-        st.markdown("Wanna learn how to build this app yourself? [Click here](https://gamma.app/docs/ru4joc3qr17h336#card-y5izdb26j4he4uy)")
+        st.markdown("Wanna learn how to build this app yourself? [Click here](https://gamma.app/docs/Do-you-want-to-build-apps-and-make-money-with-AI-ChatGPT-in-8-wee-ru4joc3qr17h336)")
 
         # Parse the query parameters
         query_parameters = parse_qs(parsed_url.query)
